@@ -1,0 +1,41 @@
+Employees who have worked for 7 consecutive days:
+[]
+
+Employees who have less than 10 hours between shifts but greater than 1 hour:
+['PaXaciE, JEWaMhaW' 'XEpez WAWez, XAis' 'CcRAWWeX, REWaXd Xee'
+ 'Arias, FeXipe' 'SiWgh, JaspreeM' 'Xee, XaCar' 'SavaWg, JEhW'
+ 'VasqAez, AXfredE' 'AXcEcer, ECar JesAs' 'ErEpeza, JEvaW' 'ErEzcE, SaAX'
+ 'DeXgadiXXE REdarMe, ChrisMiaW S' 'GAeWdia, JAaW CarXEs' 'MAake, CasiaWE'
+ 'PayaW, DaWieX' 'GAMierrez, PedrE CigAeX' 'PerkiWs, MarraWce'
+ 'CEMMa, Jessica' 'SiWgh, MarAWpreeM' 'CaMaXaWE, CeghaW' 'REsaXiaWE, XAis'
+ 'EXivares, FeXCaW' 'CercadE, SaAX' 'RAvaXcaGa GaWAeXEs, DaWieX JesAs'
+ 'CaMXEck, CEhaCCed' 'DiXXard, JEwaWW Cedric' 'Perez, EdwiW JiCeWez'
+ 'CaXdEWadE, AXfEWsE' 'ZaCEra, CigAeX' 'Diaz GaXvez, RicardE JEsAe'
+ 'CercadE, CrisMiaW' 'SiWgXeMEW, REger' 'HerCEsiXXE, PedrE'
+ 'DECiWgAez AviWa, CigAeX AWgeX' 'PaAXE, KyXe' 'XariEs, Cesar GiEvaWWi'
+ 'SMrickXaWd, REdWey EAgeWe' 'MaXeGi, ACirCasEAd' 'MAcker, CichaeX'
+ 'CesiWa CEreWE, KeviW FaGiaW' 'ChaCErE, HEXger CarMiWez'
+ 'JerEWiCE CEraXes, CarXEs D' 'CiGriaW DeXgadE, EXeWa S'
+ 'ArCeWMa FXEres, JEWaMhaW' 'HEGGie ErMega, SeGasMiaW CichaeX'
+ 'CeciWa, SiXvesMre Jr' 'AXvarez, Edgar'
+ 'SaWchez PaCpXEWa, CrisMiaW AXGerM' 'AGeX, WaMhaW REGerM PeWa'
+ 'GarWes, JAsMiW' 'GaWks, GryaW' 'CAevas ZavaXa, JErge XAis'
+ 'REdrigAez, GraWdEW AWgeX' 'ZaCEra, Edward' 'MraW, WiXXiaC Ha'
+ 'FeXix, XeEWeX' 'ViXXa, AXfredE AieXXE' 'ArevaXE, JEse'
+ 'REdrigAez, PedrE' 'CEreira Jr, JEse' 'DiWh, DaA' 'EasMCaW, CichaeX'
+ 'HerWaWdez SaWchez, AWdrew AWMhEWy' 'ArEsMigAi, AXexaWder'
+ 'XariEs XaWdaverde, XAis ErWesME' 'REdrigAez, XAis' 'RECerE, SergiE'
+ 'XiWW, JAsMiW' 'Caxies, MerreXX' 'GrACfieXd, CErWeXiAs'
+ 'De XEs SaWMEs, JEseph XAis' 'HaCiXMEW, DeaWMe DevEW'
+ 'GaXCes, EXias XEpez' 'De Xa Cerda, IgWaciE' 'CeWdEza, Erik'
+ 'Merrazas, GriaW' 'WgAyeW, RayCEWd' 'CErMes, DEAgXas Farid'
+ 'REdrigAez, AXexis GAMierrez' 'Rivera AXcaWMar, GrayaW'
+ 'RaCEs HerWaWdez, AdieX ECar' 'ErMiz, AGigaiX' 'VasqAez, JEhW SeGasMiaW'
+ 'CharXes, EGadiah SEraccE Jr' 'SaWchez, ArWAXfE' 'WiXXiaCs, MyrreXX'
+ 'Sparks, KeWWeMh' 'IWGEAa, JeffersEW' 'SiWgh, CaWpreeM'
+ 'EsMrada, JEse FeXix' 'CaraGiXXa, AWMhEWy' 'ArrAMia, AXexis ArMArE'
+ 'FaGiaW CiraWda, JEse' 'VaXderraCa CasMiXXE, Escar FaGiaW'
+ 'HAWMer, ViWceWM De PaAX' 'CarMer, XyWWeXX DejAaW Jr']
+
+Employees who have worked for more than 14 hours in a single shift:
+['DeXgadiXXE REdarMe, ChrisMiaW S']
